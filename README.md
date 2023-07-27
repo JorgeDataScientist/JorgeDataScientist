@@ -3,13 +3,14 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jorgeluis174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-data-engineer/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jorgedataengineer)
+[![OpenSea](https://img.shields.io/badge/OpenSea-000000?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/VenezuelaSubmarina)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/misionshark_nft)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WhisperingWanderlust)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jorgeluis174)
-[![OpenSea](https://img.shields.io/badge/OpenSea-000000?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/VenezuelaSubmarina)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/burroflautista)
+
+
 
 
 ## 💻 Tech Stack:
