@@ -9,6 +9,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/misionshark_nft)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WhisperingWanderlust)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jorgeluis174)
+[![OpenSea](https://img.shields.io/badge/OpenSea-000000?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/VenezuelaSubmarina)
+
 
 ## 💻 Tech Stack:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
