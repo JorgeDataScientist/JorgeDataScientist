@@ -5,15 +5,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-data-engineer/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jorgedataengineer)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/burroflautista)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/burroflautista)
-[![OpenSea](https://img.shields.io/badge/OpenSea-000000?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/VenezuelaSubmarina)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/misionshark_nft)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@WhisperingWanderlust)
-
-
-
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/burroflautista)
+[![OpenSea](https://img.shields.io/badge/OpenSea-000000?style=for-the-badge&logo=opensea&logoColor=white)](https://opensea.io/VenezuelaSubmarina)
 
 ## 💻 Tech Stack:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
