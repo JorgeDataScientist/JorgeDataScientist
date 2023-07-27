@@ -51,8 +51,7 @@
   
 ## 💰 You can help me by making a donation in Ethereum.
 ## 💰 0x62f4Ae4ce3a4A74A21EA5dE07370C725C68eFf89
-[![Ethereum Wallet](https://img.shields.io/badge/Ethereum%20Wallet-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)]([https://example.eth](https://www.binance.com/es-LA))
-
+[![Ethereum Wallet](https://img.shields.io/badge/Ethereum%20Wallet-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://www.binance.com/es-LA)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
