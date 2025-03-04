@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 Maintenance Engineer<br>🤿 Industrial Diver<br>🧪 Data Scientist<br>🐍 Python Lover<br>📊 Matplotlib<br>🐼 Pandas<br>📈 Power BI<br>🔢 NumPy<br>💾 SQL<br>🗄️ MySQL<br>🤖 Scikit-learn<br>🧠 Machine Learning<br>☁️ Azure
+🤿 Industrial Diver<br>🧪 Data Scientist<br>🐍 Python Lover<br>📊 Matplotlib<br>🐼 Pandas<br>📈 Power BI<br>🔢 NumPy<br>💾 SQL<br>🗄️ MySQL<br>🤖 Scikit-learn<br>🧠 Machine Learning<br>☁️ Azure
 
 
 ## 🌐 Socials:
